@@ -10,7 +10,21 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Nextjs<br>🌱 I’m currently learning Nextjs,Prisma,DevOps<br>👯 I’m looking to collaborate on Full-Stack Web-dev projects<br>💬 Ask me about Reactjs and Nodejs<br>👨‍💻 All of my projects are available at https://port-folio-one-ecru.vercel.app/<br>📄 Know about my experiences https://drive.google.com/file/d/1y89xWHorYlMLuMx7y2FkwnV98_KSd3Io/view?usp=drive_link<br>📫 How to reach me saikumar.kanuri.ksvs@gmail.com<br>⚡ Fun fact I can speak English, Hindi and Telugu</p>
+- 🔭 I’m currently working on **Nextjs**
+
+- 🌱 I’m currently learning **Nextjs,Prisma,DevOps**
+
+- 👯 I’m looking to collaborate on **Full-Stack Web-dev projects**
+
+- 👨‍💻 All of my projects are available at [https://port-folio-one-ecru.vercel.app/](https://port-folio-one-ecru.vercel.app/)
+
+- 💬 Ask me about **Reactjs and Nodejs**
+
+- 📫 How to reach me **saikumar.kanuri.ksvs@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y89xWHorYlMLuMx7y2FkwnV98_KSd3Io/view?usp=drive_link](https://drive.google.com/file/d/1y89xWHorYlMLuMx7y2FkwnV98_KSd3Io/view?usp=drive_link)
+
+- ⚡ Fun fact **I can speak English, Hindi and Telugu**
 
 ###
 
