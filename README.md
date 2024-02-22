@@ -176,6 +176,10 @@
 
 ###
 
+<h2 align="left">My Contributions</h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/Sai-Kumar-Kanuri/Sai-Kumar-Kanuri/output/snake.svg" alt="Snake animation" />
 
 ###
