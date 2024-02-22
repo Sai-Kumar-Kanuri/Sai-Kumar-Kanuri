@@ -16,13 +16,13 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web-dev projects**
 
-- 👨‍💻 All of my projects are available at [https://port-folio-one-ecru.vercel.app/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://port-folio-one-ecru.vercel.app/)
 
 - 💬 Ask me about **Reactjs and Nodejs**
 
 - 📫 How to reach me **saikumar.kanuri.ksvs@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y89xWHorYlMLuMx7y2FkwnV98_KSd3Io/view?usp=drive_link](https://drive.google.com/file/d/1y89xWHorYlMLuMx7y2FkwnV98_KSd3Io/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y89xWHorYlMLuMx7y2FkwnV98_KSd3Io/view?usp=drive_link)
 
 - ⚡ Fun fact **I can speak English, Hindi and Telugu**
 
