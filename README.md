@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web-dev projects**
 
-- 👨‍💻 All of my projects are available at [https://port-folio-one-ecru.vercel.app/](https://port-folio-one-ecru.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://port-folio-one-ecru.vercel.app/](Portfolio)
 
 - 💬 Ask me about **Reactjs and Nodejs**
 
